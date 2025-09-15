@@ -1,2 +1,2 @@
-# LMS
+# Pustakalaya
 Library Management System
